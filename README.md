@@ -97,6 +97,14 @@ quantum-teleportation/
 
 Quantum teleportation was first proposed by Bennett et al. in 1993. It does **not** transmit information faster than light — the classical correction step (2 classical bits) is required to complete the protocol. What is teleported is the **quantum state**, not matter or energy.
 
+
+<img width="1433" height="546" alt="image" src="https://github.com/user-attachments/assets/5578b0f5-c747-420f-83ac-7b89a201796b" />
+
+<img width="996" height="565" alt="image" src="https://github.com/user-attachments/assets/6d2850b1-6993-44ff-8f56-0caeae8c39cd" />
+
+
+
+
 Key concepts used in this project:
 - **Entanglement** — Bell state shared between Alice and Bob
 - **Bell Measurement** — Projects Alice's qubits onto a Bell basis
