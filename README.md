@@ -104,7 +104,3 @@ Key concepts used in this project:
 - **Depolarizing Noise** — Models random Pauli errors on gates
 
 ---
-
-## 📄 License
-
-MIT License — feel free to use, modify, and share.
